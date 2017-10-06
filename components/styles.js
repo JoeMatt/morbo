@@ -10,6 +10,7 @@ const styles = StyleSheet.create({
   row: {
     flexDirection:"row",
     alignItems: "center",
+    padding: 5,
   }
 });
 
