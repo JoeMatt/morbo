@@ -13,7 +13,7 @@ const ENDPOINT = `http://projects.hearstnp.com/open/api/v1/article.php?id=122477
 
 export default class HomeScreen extends React.Component {
   static navigationOptions = {
-    title: 'Welcome'
+    title: 'Hearst Newspapers'
   };
 
   state = {
@@ -42,8 +42,7 @@ export default class HomeScreen extends React.Component {
     return (
     <View style={styles.container}>
       <ScrollView>
-        <Text h4>Hearst Newspapers</Text>
-        <Button onPress={ () => { navigate("NetTest"); }  } title="Load Net Test" color="#3399aa" />
+        <Button onPress={ () => { navigate("Article"); }  } title="View Article" color="#111111" />
         <Articles {...data} { ...this.props }/>
       </ScrollView>
     </View>
