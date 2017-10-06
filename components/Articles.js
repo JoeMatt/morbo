@@ -5,12 +5,16 @@ import { View, Linking } from "react-native";
 // Styles
 import styles from "./styles";
 // Toolkit
-import { Text, Badge, Card } from "react-native-elements";
+import { Text, Badge, Card, Button } from "react-native-elements";
 // Components
 import ImageCard from "./ImageCard";
 import Author from "./Author";
 
 export default class Articles extends Component {
+  static navigationOptions = {
+    title: 'Section Page'
+  };
+
   constructor(props) {
     super(props);
     console.log("props ", props);
@@ -52,7 +56,8 @@ export default class Articles extends Component {
 
   renderItem(response, i) {
     const { taxonomy } = response;
-
+    const { navigate } = this.props.navigation; 
+    
     const Tags = taxonomy.section.map((o, i) => this.renderTags(o, i));
 
     return (
@@ -60,6 +65,7 @@ export default class Articles extends Component {
         {this.renderHeader(response)}
         <ImageCard {...response} />
         <View style={styles.row}>{Tags && Tags}</View>
+        <Button onPress={ () => { navigate("Article"); }  } title="View Article" color="#111111" />
       </Card>
     );
   }
