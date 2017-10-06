@@ -1,5 +1,8 @@
 {
   "expoServerPort": 19000,
-  "packagerPort": 19002,
-  "packagerPid": 96295
+  "packagerPort": 19001,
+  "packagerPid": 28301,
+  "expoServerNgrokUrl": "https://2n-muu.joematt.morbo.exp.direct",
+  "packagerNgrokUrl": "https://packager.2n-muu.joematt.morbo.exp.direct",
+  "ngrokPid": 28315
 }
