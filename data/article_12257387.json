@@ -1,0 +1,333 @@
+{  
+    "status":{  
+        "code":200,
+        "message":"OK. From cache",
+        "haiku":"When I read haiku, \/ I hear it in the voice of \/ William Shatner.",
+        "key":"a_396e3c4c388bb082_full",
+        "warning":"This API is EXPERIMENTAL and may break or prove unreliable.",
+        "updated":"Fri, 06 Oct 2017 11:01:00 -0400",
+        "debug":[  
+
+        ],
+        "version":"0.0.1"
+    },
+    "response":[  
+        {  
+            "id":"12257387",
+            "type":"article",
+            "premium":false,
+            "origin":"associated-press",
+            "site":"sfgate",
+            "title":"Nobel Peace Prize awarded to anti-nuclear campaign group",
+            "slug":"Nobel-Prize-for-peacemakers-peace-seekers-comes",
+            "description":"OSLO, Norway (AP) - The Nobel Peace Prize was awarded Friday to the International Campaign to Abolish Nuclear Weapons, a group of mostly young activists&hellip;",
+            "excerpt":"<p>OSLO, Norway (AP) \u2014 The Nobel Peace Prize was awarded Friday to the International Campaign to Abolish Nuclear Weapons, a group of mostly young activists pushing for a global treaty to ban the cataclysmic bombs.<\/p><p>The award of the $1.1-million prize comes amid heightened tensions over both North Korea's aggressive development of nuclear weapons and U.S. President Donald Trump's persistent criticism of the deal to curb Iran's nuclear program.<\/p>",
+            "date":{  
+                "published":"2017-10-06 7:59:00 -0700",
+                "modified":"",
+                "expires":""
+            },
+            "author":[  
+                {  
+                    "name":"Mark Lewis, Associated Press ",
+                    "path":""
+                }
+            ],
+            "link":{  
+                "canonical":"http:\/\/www.sfgate.com\/news\/world\/article\/Nobel-Prize-for-peacemakers-peace-seekers-comes-12257387.php",
+                "url":"http:\/\/www.sfgate.com\/news\/world\/article\/Nobel-Prize-for-peacemakers-peace-seekers-comes-12257387.php",
+                "path":"\/news\/world\/article\/Nobel-Prize-for-peacemakers-peace-seekers-comes-12257387.php",
+                "amp":"http:\/\/www.sfgate.com\/news\/world\/amp\/Nobel-Prize-for-peacemakers-peace-seekers-comes-12257387.php",
+                "home":"http:\/\/www.sfgate.com"
+            },
+            "layout":{  
+                "featuredMedia":{  
+                    "type":"gallery",
+                    "id":"14297631"
+                }
+            },
+            "content":[  
+                {  
+                    "type":"gallery",
+                    "id":"14297631",
+                    "featured":true
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>OSLO, Norway (AP) \u2014 The Nobel Peace Prize was awarded Friday to the International Campaign to Abolish Nuclear Weapons, a group of mostly young activists pushing for a global treaty to ban the cataclysmic bombs.<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>The award of the $1.1-million prize comes amid heightened tensions over both North Korea's aggressive development of nuclear weapons and U.S. President Donald Trump's persistent criticism of the deal to curb Iran's nuclear program.<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>The prize committee wanted \"to send a signal to North Korea and the U.S. that they need to go into negotiations,\" Oeivind Stenersen, a historian of the peace prize, told The Associated Press. \"The prize is also coded support to the Iran nuclear deal. I think this was wise because recognizing the Iran deal itself could have been seen as giving support to the Iranian state.\"<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>The Geneva-based ICAN has campaigned actively for the Treaty on the Prohibition of Nuclear Weapons, which was adopted by 122 countries at the United Nations in July. On Sept. 20, the first day the treaty was open for signature, 51 countries signed it and three submitted their ratifications. The treaty needs 50 ratifications to go into force, which advocates are confident will happen.<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>The United States, Russia, Britain, France and China all boycotted the negotiations; India, Pakistan and North Korea did not vote.<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>ICAN also organized events globally in 2015 to mark the 70th anniversaries of World War II's devastating U.S. atomic bombing of the Japanese cities of Hiroshima and Nagasaki.<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>Last month in Berlin, ICAN protesters teamed up with other organizations to demonstrate outside the U.S. and North Korean embassies against the possibility of nuclear war between the two countries. Wearing masks of Trump and North Korean leader Kim Jong Un, protesters posed next to a dummy nuclear missile and a large banner reading \"Time to Go: Ban Nuclear Weapons.\"<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>The group \"has been a driving force in prevailing upon the world's nations to pledge to cooperate ... in efforts to stigmatize, prohibit and eliminate nuclear weapons,\" Norwegian Nobel Committee chairwoman Berit Reiss-Andersen said in the announcement.<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>The prize \"sends a message to all nuclear-armed states and all states that continue to rely on nuclear weapons for security that it is unacceptable behavior. We will not support it, we will not make excuses for it. We can't threaten to indiscriminately slaughter hundreds of thousands of civilians in the name of security. That's not how you build security,\" ICAN executive director Beatrice Fihn told reporters Friday in Geneva.<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>She said that she \"worried that it was a prank\" after getting a phone call just minutes before the official Peace Prize announcement was made. Fihn said she didn't believe it until she heard the name of the group being proclaimed on television.<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>ICAN leaders later popped open some bubbly to celebrate the prize, and held up a banner with their group's name in their small Geneva headquarters.<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>\"We are trying to send very strong signals to all states with nuclear arms, nuclear-armed states \u2014 North Korea, U.S., Russia, China, France, U.K., Israel, all of them, India, Pakistan \u2014 it is unacceptable to threaten to kill civilians,\" she said.<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>Reiss-Andersen noted that similar prohibitions have been reached on chemical and biological weapons, land mines and cluster munitions.<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>\"Nuclear weapons are even more destructive, but have not yet been made the object of a similar international legal prohibition,\" she said.<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>Reiss-Andersen said \"through its inspiring and innovative support for the U.N. negotiations on a treaty banning nuclear weapons, ICAN has played a major part in bringing about what in our day and age is equivalent to an international peace congress.\"<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>Asked by journalists whether the prize was essentially symbolic, given that no international measures against nuclear weapons have been reached, Reiss-Andersen said \"what will not have an impact is being passive.\"<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>Anita Friedt, the U.S. acting assistant secretary of state for arms control, told the U.N. General Assembly this week that it would be irresponsible for the U.S. to support the treaty, citing the threat from North Korea.<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>___<\/p>"
+                },
+                {  
+                    "type":"text",
+                    "content":"<p>Jamey Keaten in Geneva, George Jahn in Vienna, Edith Lederer at the United Nations and Jim Heintz in Stockholm contributed to this story.<\/p>"
+                }
+            ],
+            "media":{  
+                "14297631":{  
+                    "id":"14297631",
+                    "type":"gallery",
+                    "images":[  
+                        {  
+                            "id":"14297631",
+                            "type":"image",
+                            "url":"http:\/\/ww4.hdnux.com\/photos\/66\/42\/50\/14297631\/3\/920x920.jpg",
+                            "path":"http:\/\/ww4.hdnux.com\/photos\/66\/42\/50\/14297631\/3\/",
+                            "caption":"FILE - in this Sept. 13, 2017 file photo activists of the International Campaign to Abolish Nuclear Weapons (ICAN) protest against the conflict between North Korea and the USA with masks of the North Korean ruler Kim Jong Un, right, and the US president Donald Trump, left,  in front of the US embassy in Berlin, Germany. The International Campaign to Abolish Nuclear Weapons wins the Nobel Peace Prize. The Norwegian Nobel Committee honored the Geneva-based group \"for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground-breaking efforts to achieve a treaty-based prohibition of such weapons.\" (Britta Pedersen\/dpa via AP) ",
+                            "credit":"Britta Pedersen, AP \/ dpa",
+                            "sizes":{  
+                                "16x9_1x":"http:\/\/ww4.hdnux.com\/photos\/66\/42\/50\/14297631\/3\/landscape_169.jpg",
+                                "16x9_2x":"http:\/\/ww4.hdnux.com\/photos\/66\/42\/50\/14297631\/3\/mobile_landscape.jpg",
+                                "16x9_3x":"http:\/\/ww4.hdnux.com\/photos\/66\/42\/50\/14297631\/3\/premium_gallery_landscape.jpg"
+                            },
+                            "preview":{  
+                                "id":"image-preview-50611",
+                                "width":32,
+                                "height":22,
+                                "content":"data:image\/jpg;base64,\/9j\/4AAQSkZJRgABAQEAYABgAAD\/\/gA+Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBkZWZhdWx0IHF1YWxpdHkK\/9sAQwAIBgYHBgUIBwcHCQkICgwUDQwLCwwZEhMPFB0aHx4dGhwcICQuJyAiLCMcHCg3KSwwMTQ0NB8nOT04MjwuMzQy\/9sAQwEJCQkMCwwYDQ0YMiEcITIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy\/8AAEQgAFgAgAwEiAAIRAQMRAf\/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC\/\/EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29\/j5+v\/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC\/\/EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29\/j5+v\/aAAwDAQACEQMRAD8Ap+HNV1KV4o5dSvJnlt96qLpjjEjL0z9Ofauqj8RXFmi2ovw0pJ\/1jq5Bz0ySfyJrgdWs7az0mXVba7lgvoIMOgwUc7gDkEfQ4HGadctNo\/hbTtQVLWSfyUlAuHJkRv4gEPXPb0rNT5tVfcLJHoU+v6kBKRdLH5cZZw0SuRwcdPpn3rM1V\/t+mPe3S2t5Dsd3WdmdAw2hSikYCkAkgD0x1zVjwjdR6losGoaoui7bpC4hEIDjDEKGOecc\/nVy8ktLDRfLtRpoki2ZkjiUBgWwcAH73APTFXLmSbBJM8wdJbvT7xI3A2RkEyc5BPp9KybZJmSOeVg8bqYDExLBgo6kmiiktBm\/odulnplvbuiySE8PjGBnP+I\/Kr9wPIgYsql2fcQBxzRRQB\/\/2Q==",
+                                "color":"#777771"
+                            }
+                        },
+                        {  
+                            "id":"photo-14297717",
+                            "type":"image",
+                            "url":"http:\/\/ww2.hdnux.com\/photos\/66\/42\/51\/14297717\/3\/920x920.jpg",
+                            "path":"http:\/\/ww2.hdnux.com\/photos\/66\/42\/51\/14297717\/3\/",
+                            "caption":"The logo of the International Campaign to Abolish Nuclear Weapons (ICAN) is pictured at the headquarters in Geneva, Switzerland, on Friday, Oct.  6, 2017.  The International Campaign to Abolish Nuclear Weapons wins the Nobel Peace Prize.  The Norwegian Nobel Committee honored the Geneva-based group \"for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground-breaking efforts to achieve a treaty-based prohibition of such weapons.\"  (Martial Trezzini\/Keystone via AP) ",
+                            "credit":"MARTIAL TREZZINI, AP \/ \u00c2\u00a9 KEYSTONE \/ MARTIAL TREZZINI",
+                            "sizes":{  
+                                "16x9_1x":"http:\/\/ww2.hdnux.com\/photos\/66\/42\/51\/14297717\/3\/landscape_169.jpg",
+                                "16x9_2x":"http:\/\/ww2.hdnux.com\/photos\/66\/42\/51\/14297717\/3\/mobile_landscape.jpg",
+                                "16x9_3x":"http:\/\/ww2.hdnux.com\/photos\/66\/42\/51\/14297717\/3\/premium_gallery_landscape.jpg"
+                            }
+                        },
+                        {  
+                            "id":"photo-14297718",
+                            "type":"image",
+                            "url":"http:\/\/ww3.hdnux.com\/photos\/66\/42\/51\/14297718\/3\/920x920.jpg",
+                            "path":"http:\/\/ww3.hdnux.com\/photos\/66\/42\/51\/14297718\/3\/",
+                            "caption":"A man walks past a sign of the International Campaign to Abolish Nuclear Weapons (ICAN) announcing the Nobel Peace Prize at the headquarters of the International campaign to abolish Nuclear Weapons (ICAN), in Geneva, Switzerland, on Friday, Oct.  6, 2017. The International Campaign to Abolish Nuclear Weapons (ICAN) is the winner of this year's Nobel Peace Prize. The Norwegian Nobel Committee honored the Geneva-based group \"for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground-breaking efforts to achieve a treaty-based prohibition of such weapons.\"  (Martial Trezzini\/Keystone via AP) ",
+                            "credit":"Martial Trezzini, AP \/ \u00c2\u00a9 KEYSTONE \/ MARTIAL TREZZINI",
+                            "sizes":{  
+                                "16x9_1x":"http:\/\/ww3.hdnux.com\/photos\/66\/42\/51\/14297718\/3\/landscape_169.jpg",
+                                "16x9_2x":"http:\/\/ww3.hdnux.com\/photos\/66\/42\/51\/14297718\/3\/mobile_landscape.jpg",
+                                "16x9_3x":"http:\/\/ww3.hdnux.com\/photos\/66\/42\/51\/14297718\/3\/premium_gallery_landscape.jpg"
+                            }
+                        },
+                        {  
+                            "id":"photo-14297721",
+                            "type":"image",
+                            "url":"http:\/\/ww2.hdnux.com\/photos\/66\/42\/51\/14297721\/3\/920x920.jpg",
+                            "path":"http:\/\/ww2.hdnux.com\/photos\/66\/42\/51\/14297721\/3\/",
+                            "caption":"In this image taken from video Beatriuce Fihn head of the International Campaign to Abolish Nuclear Weapons speaks to the media in Geneva, Switzerland on Friday Oct. 6, 2017. The International Campaign to Abolish Nuclear Weapons was awarded on Friday this year\u2019s Nobel Peace Prize in Oslo. ",
+                            "credit":"AP \/ Associated Press Television",
+                            "sizes":{  
+                                "16x9_1x":"http:\/\/ww2.hdnux.com\/photos\/66\/42\/51\/14297721\/3\/landscape_169.jpg",
+                                "16x9_2x":"http:\/\/ww2.hdnux.com\/photos\/66\/42\/51\/14297721\/3\/mobile_landscape.jpg",
+                                "16x9_3x":"http:\/\/ww2.hdnux.com\/photos\/66\/42\/51\/14297721\/3\/premium_gallery_landscape.jpg"
+                            }
+                        },
+                        {  
+                            "id":"photo-14297630",
+                            "type":"image",
+                            "url":"http:\/\/ww3.hdnux.com\/photos\/66\/42\/50\/14297630\/3\/920x920.jpg",
+                            "path":"http:\/\/ww3.hdnux.com\/photos\/66\/42\/50\/14297630\/3\/",
+                            "caption":"FILE - in this Sept. 13, 2017 file photo activists of the International Campaign to Abolish Nuclear Weapons (ICAN) protest against the conflict between North Korea and the USA with masks of the North Korean ruler Kim Jong Un, right, and the US president Donald Trump, left,  in front of the US embassy in Berlin, Germany. The International Campaign to Abolish Nuclear Weapons wins the Nobel Peace Prize. The Norwegian Nobel Committee honored the Geneva-based group \"for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground-breaking efforts to achieve a treaty-based prohibition of such weapons.\" (Britta Pedersen\/dpa via AP) ",
+                            "credit":"Britta Pedersen, AP \/ dpa",
+                            "sizes":{  
+                                "16x9_1x":"http:\/\/ww3.hdnux.com\/photos\/66\/42\/50\/14297630\/3\/landscape_169.jpg",
+                                "16x9_2x":"http:\/\/ww3.hdnux.com\/photos\/66\/42\/50\/14297630\/3\/mobile_landscape.jpg",
+                                "16x9_3x":"http:\/\/ww3.hdnux.com\/photos\/66\/42\/50\/14297630\/3\/premium_gallery_landscape.jpg"
+                            }
+                        },
+                        {  
+                            "id":"photo-14297651",
+                            "type":"image",
+                            "url":"http:\/\/ww4.hdnux.com\/photos\/66\/42\/50\/14297651\/3\/920x920.jpg",
+                            "path":"http:\/\/ww4.hdnux.com\/photos\/66\/42\/50\/14297651\/3\/",
+                            "caption":"Berit Reiss-Andersen, chair of Norwegian Nobel Committee, announces that 2017 Nobel Peace Prize goes to ICAN, International Campaign to Abolish Nuclear Weapons in Oslo Friday Oct. 6, 2017. The Nobel committee secretary, Olav Njoelstad stands at right. ( Heiko Junge\/NTB scanpix via AP) ",
+                            "credit":"Heiko Junge, AP \/ NTB scanpix",
+                            "sizes":{  
+                                "16x9_1x":"http:\/\/ww4.hdnux.com\/photos\/66\/42\/50\/14297651\/3\/landscape_169.jpg",
+                                "16x9_2x":"http:\/\/ww4.hdnux.com\/photos\/66\/42\/50\/14297651\/3\/mobile_landscape.jpg",
+                                "16x9_3x":"http:\/\/ww4.hdnux.com\/photos\/66\/42\/50\/14297651\/3\/premium_gallery_landscape.jpg"
+                            }
+                        },
+                        {  
+                            "id":"photo-14297628",
+                            "type":"image",
+                            "url":"http:\/\/ww1.hdnux.com\/photos\/66\/42\/50\/14297628\/3\/920x920.jpg",
+                            "path":"http:\/\/ww1.hdnux.com\/photos\/66\/42\/50\/14297628\/3\/",
+                            "caption":"Berit Reiss-Andersen, chair of Norwegian Nobel Committee, announces that 2017 Nobel Peace Prize goes to ICAN, International Campaign to Abolish Nuclear Weapons in Oslo Friday Oct. 6, 2017. The Nobel committee secretary, Olav Njoelstad stands at right.. ( Heiko Junge\/NTB scanpix via AP) ",
+                            "credit":"Heiko Junge, AP \/ NTB scanpix",
+                            "sizes":{  
+                                "16x9_1x":"http:\/\/ww1.hdnux.com\/photos\/66\/42\/50\/14297628\/3\/landscape_169.jpg",
+                                "16x9_2x":"http:\/\/ww1.hdnux.com\/photos\/66\/42\/50\/14297628\/3\/mobile_landscape.jpg",
+                                "16x9_3x":"http:\/\/ww1.hdnux.com\/photos\/66\/42\/50\/14297628\/3\/premium_gallery_landscape.jpg"
+                            }
+                        }
+                    ],
+                    "featured":true
+                },
+                "image":{  
+                    "thumbnail":"http:\/\/ww4.hdnux.com\/photos\/66\/42\/50\/14297631\/3\/sailthruImage.jpg",
+                    "full":"http:\/\/ww4.hdnux.com\/photos\/66\/42\/50\/14297631\/3\/rawImage.jpg",
+                    "color":"#777771"
+                }
+            },
+            "taxonomy":{  
+                "section":[  
+                    "news",
+                    "world"
+                ],
+                "location":[  
+                    "united states",
+                    "geneva",
+                    "mc complete - state & national",
+                    "norway",
+                    "oslo",
+                    "states",
+                    "state",
+                    "nations",
+                    "countries",
+                    "russia",
+                    "pakistan",
+                    "world",
+                    "headquarters",
+                    "cities",
+                    "embassies",
+                    "india",
+                    "britain",
+                    "japanese",
+                    "hiroshima",
+                    "nagasaki",
+                    "berlin",
+                    "israel",
+                    "stockholm",
+                    "vienna"
+                ],
+                "person":[  
+                    "donald trump",
+                    "person",
+                    "politician",
+                    "oeivind stenersen",
+                    "activists",
+                    "general",
+                    "berit reiss-andersen",
+                    "beatrice fihn",
+                    "leaders",
+                    "protesters",
+                    "kim jong-un",
+                    "top general",
+                    "group",
+                    "anita friedt",
+                    "force",
+                    "advocates",
+                    "civilians",
+                    "journalists",
+                    "jamey keaten",
+                    "jim heintz",
+                    "george jahn",
+                    "edith lederer",
+                    "reporters"
+                ],
+                "event":[  
+                    "negotiations",
+                    "bombing",
+                    "events",
+                    "war",
+                    "anniversaries",
+                    "world war ii",
+                    "announcement"
+                ],
+                "organization":[  
+                    "the associated press",
+                    "campaign group",
+                    "europe news",
+                    "europe north korea",
+                    "united states north america iran middle east east asia asia geneva switzerland western europe",
+                    "countries",
+                    "united nations",
+                    "iranian",
+                    "group",
+                    "prize committee",
+                    "international campaign to abolish nuclear weapons",
+                    "top news",
+                    "government",
+                    "organizations",
+                    "china",
+                    "france",
+                    "peace congress",
+                    "norwegian nobel committee",
+                    "u.n. general assembly"
+                ]
+            }
+        }
+    ]
+}
