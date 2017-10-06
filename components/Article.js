@@ -33,7 +33,7 @@ export default class Article extends Component {
 
 	return (
 	<ScrollView>
-	<Text>{title}</Text>
+	<Text style={{fontWeight: 'bold'}} h3>{title}</Text>
 	{Authors && Authors}
 	{
 		content.map((element, i) => {
@@ -42,8 +42,10 @@ export default class Article extends Component {
 			if (type == "text") {
 				const content = element["content"];
 
+        const formattedText = content.replace(/<p[^>]*>/g, '     ').replace(/<\/p>/g, '\n');
+
 				return (
-				<Text>{content}</Text>
+				<Text>{formattedText}</Text>
 				)
 			} else if (type == "gallery") {
 				return <Gallery element={element} media={response["media"]}/>
