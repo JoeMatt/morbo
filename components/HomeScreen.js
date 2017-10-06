@@ -42,7 +42,6 @@ export default class HomeScreen extends React.Component {
     return (
     <View style={styles.container}>
       <ScrollView>
-        <Button onPress={ () => { navigate("Article"); }  } title="View Article" color="#111111" />
         <Articles {...data} { ...this.props }/>
       </ScrollView>
     </View>
