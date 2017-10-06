@@ -2,7 +2,7 @@
 import React, { Component } from "react";
 import { AppRegistry, Image, StyleSheet, View, ScrollView } from "react-native";
 // Styles
-import styles from './components/styles';
+import styles from './styles';
 // Toolkit
 import { Text, Button } from "react-native-elements";
 // Components
